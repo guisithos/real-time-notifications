@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/real-time-notifications/pkg/models"
+	"github.com/guisithos/real-time-notifications/pkg/models"
 
 	"github.com/IBM/sarama"
 	"github.com/gin-gonic/gin"
