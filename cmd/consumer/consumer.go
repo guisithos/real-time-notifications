@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"sync"
 
-	"kafka-notify/pkg/models"
+	"github.com/real-time-notifications/pkg/models"
 
 	"github.com/IBM/sarama"
 	"github.com/gin-gonic/gin"
